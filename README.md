@@ -1,0 +1,2 @@
+# DBMS-Lab
+A repository for programs done as part of my DBMS lab work.
